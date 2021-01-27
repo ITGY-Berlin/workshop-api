@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Seven",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UY818_.jpg",
+      "director": "David Fincher",
+      "rating": 8
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UY901_.jpg",
+      "director": "Francis Ford Coppola",
+      "rating": 7
+    },
+    {
+      "id": 3,
+      "title": "The Hateful Eight",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_FMjpg_UY863_.jpg",
+      "director": "Quentin Tarantino",
+      "rating": 10
+    },
+    {
+      "id": 4,
+      "title": "The Departed",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_FMjpg_UX450_.jpg",
+      "director": "Martin Scorsese",
+      "rating": 7
+    },
+    {
+      "id": 5,
+      "title": "Memento",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1022_.jpg",
+      "director": "Christopher Nolan",
+      "rating": 8
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UY864_.jpg",
+      "director": "Christopher Nolan",
+      "rating": 8
+    }
+  ]
+}
